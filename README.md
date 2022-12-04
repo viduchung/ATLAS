@@ -4,7 +4,6 @@ Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.i
 ```sh
 git clone https://github.com/ViDucHung2006/ATLAS
 cd ATLAS
-git pull
 sh install.sh
 ```
 # Methods
