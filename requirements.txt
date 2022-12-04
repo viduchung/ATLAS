@@ -1,0 +1,4 @@
+colorama
+rich
+requests
+httpx
