@@ -12,9 +12,10 @@ sh install.sh
 HTTP
 HTTP-STORM
 GET-FLOOD
+HTTP-NULL
+HTTP-SOCKET
+CF-KILL
 TLS
-...
-UPDATE PROXY!
 ```
 # Group Telegram
 ```sh
