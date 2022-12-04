@@ -1,1 +1,1 @@
-print("Đợi Tí Nó Load Nhé!\nĐừng Ấn Enter\n)
+print("Đợi Tí Nó Load Nhé!\nĐừng Ấn Enter\n")
