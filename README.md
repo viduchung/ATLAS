@@ -1,5 +1,5 @@
 # Welcome To ATLAS
-Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/kaQdEU.jpg" width="300" height="250" alt="Script Tool"></p> 
+Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/a93wbLl.jpg" width="300" height="200" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
 git clone https://github.com/ViDucHung2006/ATLAS
