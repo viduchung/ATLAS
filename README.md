@@ -1,5 +1,9 @@
 # ATLAS [ Bảo Trì ]
 # Đã Xoá Main
+# Dùng HaKiToV1.3.0 Đi!!
+```sh
+https://github.com/ViDucHung2006/HaKiToV1.3.0
+```
 Không Được DDoS Website Chính Phủ<p align="center"><img src="https://i.imgur.com/a93wbLl.jpg" width="300" height="150" alt="Script Tool"></p> 
 # Setup and Run
 ```sh
