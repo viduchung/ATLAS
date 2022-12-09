@@ -3,4 +3,4 @@ pip3 install -r requirements.txt
 sudo apt -y install screen
 git pull
 python3 load.py
-python3 thatlavailon.py
+python3 emchua18.py
