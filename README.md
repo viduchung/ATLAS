@@ -6,6 +6,10 @@ cd ATLAS
 git pull
 sh install.sh
 ```
+# Username Lấy Tại
+```sh
+https://mneylink.com/user
+```
 # Methods
 ```sh
 HTTP
